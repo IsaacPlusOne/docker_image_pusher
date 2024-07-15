@@ -1,4 +1,4 @@
-immich-server
+#immich-server
 immich_machine_learning
 immich_redis
 immich_postgres
